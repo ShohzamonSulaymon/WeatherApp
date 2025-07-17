@@ -17,10 +17,10 @@ Get real-time weather updates by entering any city name — and let the sky tell
 ## 📸 Screenshots
 
 ### Before Search:
-![App Screenshot](screenshot1.png)
+![App Screenshot](https://github.com/ShohzamonSulaymon/WeatherApp/blob/main/WeatherApp/Screenshot1.png)
 
 ### After Getting Weather:
-![App Screenshot](screenshot2.png)
+![App Screenshot](https://github.com/ShohzamonSulaymon/WeatherApp/blob/main/WeatherApp/Screenshot2.png)
 
 ## 🚀 Run Locally
 
