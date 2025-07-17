@@ -12,7 +12,7 @@ Get real-time weather updates by entering any city name — and let the sky tell
 
 ## 🎥 Demo
 
-[▶️ Watch Demo Video](https://github.com/YOUR_USERNAME/weather-app/blob/main/demo.mp4)
+[▶️ Watch Demo Video](https://github.com/ShohzamonSulaymon/WeatherApp/blob/main/WeatherApp/demo.mp4)
 
 ## 📸 Screenshots
 
