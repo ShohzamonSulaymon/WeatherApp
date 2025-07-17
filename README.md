@@ -27,5 +27,5 @@ Get real-time weather updates by entering any city name — and let the sky tell
 Clone the project:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-app.git
-cd weather-app
+git clone https://github.com/ShohzamonSulaymon/WeatherApp.git
+cd WeatherApp
